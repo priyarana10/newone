@@ -1,12 +1,9 @@
 
-.second-page{
-    /* display: flex; */
-    gap: 10px;
-}
+
 .main-page{
     display: flex;
     gap: 40px;
-    /* border: 1px solid white; */
+   
     box-shadow: 10px 10px 30px whitesmoke;
     padding: 20px;
     justify-content: center;
