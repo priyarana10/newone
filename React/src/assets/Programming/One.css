@@ -1,0 +1,17 @@
+.copy{
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    color: white;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    gap: 30px;
+}
+.oneee{
+    display: flex;
+    gap: 30px;
+    justify-content: center; 
+}

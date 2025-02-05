@@ -1,0 +1,51 @@
+.add {
+    /* margin-top: 30px; */
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    max-width: auto;
+    margin: 0 auto;
+}
+.oncee {
+    position: relative;
+}
+
+.twice {
+    position: absolute;
+    top: 30px;
+    left: 25px;
+    padding-left: 20px;
+    text-align: left; 
+    display: flex; 
+    flex-direction: column; 
+    gap: 10px; 
+}
+
+.photos {
+    width: 400px;
+    height: 300px;
+    border-radius: 50px;
+    object-fit: cover; 
+}
+
+.name {
+    font-size: 44px; 
+    margin-bottom: 10px; 
+    text-align: left;
+    width: 100px; 
+}
+
+.names {
+    font-size: 40px; 
+    text-align: left;
+}
+
+.style {
+    display: flex;
+    align-items: center; 
+    gap: 70px; 
+}
+
+
+
+

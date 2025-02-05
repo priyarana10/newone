@@ -1,0 +1,13 @@
+.onec{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.onecc{
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+
+}
